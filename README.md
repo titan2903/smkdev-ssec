@@ -1,1 +1,1 @@
-# smkdev-ssec
+# SSEC - KELAS #10
