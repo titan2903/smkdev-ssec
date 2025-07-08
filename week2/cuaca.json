@@ -1,0 +1,13 @@
+{
+  "name": "Jakarta",
+  "main": {
+    "temp": 28.5,
+    "humidity": 75
+  },
+  "weather": [
+    {
+      "main": "Clouds",
+      "description": "scattered clouds"
+    }
+  ]
+}
